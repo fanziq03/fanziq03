@@ -66,7 +66,7 @@ I'm a final-year Mobile Computing student at Universiti Teknologi MARA (UiTM), p
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fanziq03&show_icons=true&theme=radical" alt="fanziq03's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fanziq03&theme=radical" alt="fanziq03's GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanziq03&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanziq03&layout=compact&theme=radical&count_private=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
