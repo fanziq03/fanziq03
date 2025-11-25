@@ -26,7 +26,7 @@ I'm a final-year Mobile Computing student at Universiti Teknologi MARA (UiTM), p
 
 - 📚 **iMahir**  
   _Gamified learning app for remedial students (Flutter, Supabase)_  
-  Final Year Project (Ongoing)  
+  Final Year Project  
   [GitHub Repo/Showcase Link](#)
 
 - 🏢 **Industry Experience**  
@@ -63,11 +63,21 @@ I'm a final-year Mobile Computing student at Universiti Teknologi MARA (UiTM), p
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fanziq03&show_icons=true&theme=radical" alt="fanziq03's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fanziq03&theme=radical" alt="fanziq03's GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanziq03&layout=compact&theme=radical&count_private=true&langs_count=8" alt="Top Languages" />
-</p>
+<div align="center">
+
+<a href="https://github.com/fanziq03">
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=fanziq03&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/fanziq03">
+  <img height="180" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fanziq03&theme=radical" />
+</a>
+<br/>
+<br/>
+<a href="https://github.com/fanziq03">
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanziq03&layout=compact&theme=radical&langs_count=8" />
+</a>
+
+</div>
 
 ---
 
