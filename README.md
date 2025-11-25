@@ -69,7 +69,8 @@ I'm a final-year Mobile Computing student at Universiti Teknologi MARA (UiTM), p
   <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=fanziq03&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/fanziq03">
-  <img height="180" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fanziq03&theme=radical" />
+  <!-- UPDATED: Switched from herokuapp to demolab.com for better stability -->
+  <img height="180" align="center" src="https://streak-stats.demolab.com/?user=fanziq03&theme=radical" />
 </a>
 <br/>
 <br/>
